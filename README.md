@@ -50,9 +50,8 @@
 
 ## 🌐 Connect With Me  
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🐦 [Twitter](https://twitter.com/your-handle)  
-- ✉️ Email: **saurabh11sharma@example.com**  
+- 💼 [LinkedIn](https://linkedin.com/in/saurabh11sharma)  
+- ✉️ Email: **saurabh11sharma@live.com**  
 
 ---
 
